@@ -16,8 +16,4 @@ Pagina web estatica utilizando la tematica de Freelancer.
 
 ## Vista previa
 
-<<<<<<< HEAD
 ![Vista previa](https://drive.google.com/uc?export=view&id=12ZyFsXTLV5LuPzAzOpSqjLu0MLUa8i1g)
-=======
-![Vista previa](https://drive.google.com/uc?export=view&id=12ZyFsXTLV5LuPzAzOpSqjLu0MLUa8i1g)
->>>>>>> 76a137d73d4e8f72ed15d53c4ffefec0a683ffce
