@@ -11,8 +11,9 @@ Perfil: https://github.com/codigoconjuan.
 
 ## Lenguajes utilizados.
 
-<img align="left" src="https://drive.google.com/uc?export=view&id=1eMyMFeL5wBSPQmf_6-meAVGLIscnS-S1" width="30" height="30" />
-<img align="left" src="https://drive.google.com/uc?export=view&id=1tyZ3VhVjEcxU3RaRsazIiQlXMMxX8JtZ" width="30" height="30" />
+<img align="left" alt="HTML" src="https://drive.google.com/uc?export=view&id=1eMyMFeL5wBSPQmf_6-meAVGLIscnS-S1" width="30" height="30" />
+
+<img align="left" alt="CSS" src="https://drive.google.com/uc?export=view&id=1tyZ3VhVjEcxU3RaRsazIiQlXMMxX8JtZ" width="30" height="30" />
 
 
 
