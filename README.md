@@ -3,6 +3,10 @@
 ## Descripcion
 Pagina web estatica utilizando la tematica de Freelancer.
 
+Practica del curso Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL.  
+Instructor: Juan Pablo De la torre Valdez.  
+Perfil: https://github.com/codigoconjuan.  
+
 <br />
 
 ## Lenguajes utilizados.
@@ -16,4 +20,6 @@ Pagina web estatica utilizando la tematica de Freelancer.
 
 ## Vista previa
 
-![Vista previa](https://drive.google.com/uc?export=view&id=12ZyFsXTLV5LuPzAzOpSqjLu0MLUa8i1g)
+[<img align="left" src="https://drive.google.com/uc?export=view&id=1g07Pwa2DeBafGdB2RFMbmBmJ_zquGQvz" />][proyectoImagenes]
+
+[proyectoImagenes]: https://drive.google.com/drive/folders/1rP4HOD6s4A3y6UbY1vuIs2AVJCn9XkA0?usp=sharing
